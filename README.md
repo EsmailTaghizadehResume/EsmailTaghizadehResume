@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EsmailTaghizadeh
+- 👋 Hi, I’m @EsmailTaghizadeh and I am Programmer
 - 👀 I’m interested in Programming and computer
 - 🌱 I’m currently learning django
 - 📱 Telegram : @Esmail_qeshmi
